@@ -183,7 +183,7 @@ form.addEventListener("submit", (e) => {
       check.style.display = 'block';
     }, 10000);
     setTimeout(() => {
-      window.location.href = '/ToDoApp/index.html';
+      window.location.href = '/index.html';
       //redirecting to the todoapp page
     }, 13000);
   }
